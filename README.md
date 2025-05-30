@@ -57,7 +57,6 @@ Este projeto é um convite digital para uma festa, desenvolvido com foco na prá
 
 ## 🤝 Contato
 
-* **GitHub:** [https://github.com/Luangaldinoo](https://github.com/Luangaldinoo)
-* **LinkedIn:** [www.linkedin.com/in/luangaldinobr](www.linkedin.com/in/luangaldinobr)
+* **GitHub:** [https://github.com/Dekko0](https://github.com/Dekko0)
 
 ---
